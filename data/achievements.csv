@@ -3,59 +3,59 @@ id;category;description;display;icon;unlockedBy
 2;8;Unlocked a new character.;Cain;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/33658122e504ae8670bbb70686468e1276902cc4.jpg;Hold 55 pennies at one time
 3;3;Unlocked a new character.;Judas;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/8196f7a0a6ed79c2fbeffa58f17c9508eec99d12.jpg;Kill Satan for the 1st time
 4;9;Chapter 4 - The Womb unlocked.;The Womb;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/be9b9b5460cecea8cd08966011993a94f6009f28.jpg;Kill Mom for the 1st time
-5;9;The horsemen are loose.;The Harbingers;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/4b60c000e6ada52368b63e7cd542da5c98ecb891.jpg;Kill Mom for the 1st time
-6;9;;A Cube of Meat;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/284bc31a579615dcf933215379f81ea011f9cd68.jpg;Kill Mom for the 1st time
-7;11;;The Book of Revelations;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/fe25808e41be017139e4d59e852d52051438080f.jpg;Defeat a Harbinger for the 1st time
-8;1;;A Noose;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/3bf267e579321b40f9cf2dc9239f369fb64a42ed.jpg;Kill Mom's Heart 3 times
+5;9;The horsemen are loose.;The Harbingers;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/4b60c000e6ada52368b63e7cd542da5c98ecb891.jpg;Beat Mom for the 1st time
+6;9;;A Cube of Meat;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/284bc31a579615dcf933215379f81ea011f9cd68.jpg;Beat Mom for the 1st time
+7;11;;The Book of Revelations;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/fe25808e41be017139e4d59e852d52051438080f.jpg;Beat a Harbinger for the 1st time
+8;1;;A Noose;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/3bf267e579321b40f9cf2dc9239f369fb64a42ed.jpg;Beat Mom's Heart 3 times
 9;6;;The Nail;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/15676e97dfa025f754bd2bf9dc7c0ba0e7b4cd7b.jpg;Beat Boss Rush with Azazel
-10;1;;A Quarter;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a042cb78d919a2e77459116e61571d34139c2490.jpg;Kill Mom's Heart 8 times
-11;1;;A Fetus in a Jar;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f654e0ba79b02042265d70ccc770ad1c2fff9c3b.jpg;Kill Mom's Heart 9 times
+10;1;;A Quarter;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a042cb78d919a2e77459116e61571d34139c2490.jpg;Beat Mom's Heart 8 times
+11;1;;A Fetus in a Jar;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f654e0ba79b02042265d70ccc770ad1c2fff9c3b.jpg;Beat Mom's Heart 9 times
 12;8;;A Small Rock;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/14f9a10908b17ca60a0bb7089e773edce7cdda57.jpg;Destroy 100 Marked Rocks
 13;10;;Monstro's Tooth;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/6a9014a7962096578041f80d1c3a2b5bea1a1533.jpg;Beat Chapter 1 for the 1st time
 14;10;;Lil' Chubby;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/33db595bc7f4ea2ce26977c3aa0b29e36f70b486.jpg;Beat Chapter 2 for the 1st time
-15;11;;Loki's Horns;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/1c9b65104bf93966e2a83a02c8d2af88ca110ed5.jpg;Kill Lokii for the 1st time
+15;11;;Loki's Horns;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/1c9b65104bf93966e2a83a02c8d2af88ca110ed5.jpg;Beat Lokii for the 1st time
 16;10;New boss in the basement!;Something From The Future;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/099f14f900121dcba0bd7343d2e51313af93b878.jpg;Beat The Basement 40 times
 17;10;New boss in the caves!;Something Cute;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/000d2e0103eec62035c1136be86d46a3f9a36ece.jpg;Beat Chapter 2 30 times
 18;10;New boss in the depths!;Something Sticky;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/9160bec98702d715824d99fe8f2dbbbbdfc2d508.jpg;Beat Chapter 3 20 times
 19;8;;A Bandage;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/69a73f5ec50e7f6f39a19b0bb9b6a9ab3347783e.jpg;Make a Ball of Bandages
-20;2;;A Cross;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/8f253ed05a3ba402a6f24e3aa772607ce72656cc.jpg;Kill Isaac with Maggy
-21;2;;A Bag of Pennies;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/3bfaae865fdf77e3e8c965f583bb16468b2a6db7.jpg;Kill Isaac with Cain
-22;11;;The Book of Sin;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d909731cc1cf5f94d20bbf9ed64d369a129461e6.jpg;Kill all 7 Sins
-23;11;;Little Gish;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/0739e9f66cd0bbcc98995285b085e40f2ebf65f6.jpg;Kill Gish
-24;11;;Little Steven;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/9d98fb085b7b4521c441fea96d29989fb8bdf40c.jpg;Kill Steven
-25;11;;Little C.H.A.D.;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/7c84f4ccb61b4112e0e6e53c891ac07c6894e517.jpg;Kill C.H.A.D.
+20;2;;A Cross;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/8f253ed05a3ba402a6f24e3aa772607ce72656cc.jpg;Beat Isaac with Maggy
+21;2;;A Bag of Pennies;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/3bfaae865fdf77e3e8c965f583bb16468b2a6db7.jpg;Beat Isaac with Cain
+22;11;;The Book of Sin;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d909731cc1cf5f94d20bbf9ed64d369a129461e6.jpg;Beat all 7 Sins
+23;11;;Little Gish;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/0739e9f66cd0bbcc98995285b085e40f2ebf65f6.jpg;Beat Gish
+24;11;;Little Steven;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/9d98fb085b7b4521c441fea96d29989fb8bdf40c.jpg;Beat Steven
+25;11;;Little C.H.A.D.;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/7c84f4ccb61b4112e0e6e53c891ac07c6894e517.jpg;Beat C.H.A.D.
 26;8;;A Gamekid;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d7d968c35d3bd9cfff55448067ffdb0a611c0727.jpg;Visit 10 Arcades
-27;9;;A Halo;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/5e385b816c79a1558e63796c9af9ccdb97e6e90e.jpg;Kill Mom using The Bible
+27;9;;A Halo;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/5e385b816c79a1558e63796c9af9ccdb97e6e90e.jpg;Beat Mom using The Bible
 28;8;;Mr. Mega;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/ab64b9eb5d967a4f63d8c9d6591b43f25a9fd30b.jpg;Destroy 10 Marked Rocks
-29;2;Isaac now holds the D6!;The D6;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/0b7920d6196b2e216536d63d953ef3cc1d839170.jpg;Kill Isaac with ???
+29;2;Isaac now holds the D6!;The D6;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/0b7920d6196b2e216536d63d953ef3cc1d839170.jpg;Beat Isaac with ???
 30;8;;The Scissors;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/fe6c34978bc7454c6bc66be822c82869ca082c4f.jpg;Die 100 times
 31;8;;The Parasite;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/7f0a1b63880588b9f4810225b3ff29d7754d48c3.jpg;Collect 2 dead items: Bob's Rotten Head, Dead Cat, Cricket's Head, Tammy's Head
-32;1;;???;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f7bb4791470a130ca074bf8b8b7439784624f581.jpg;Kill Mom's Heart 10 times
-33;1;The game just got harder!;Everything is Terrible!!!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/ff9835c94f32c67602b45e62d58a3bc81582e003.jpg;Kill Mom's Heart 5 times
-34;1;Your future's past waits.;It Lives!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/8de4f96d3ad3501ab713f9fd26e02f62d69d2c00.jpg;Kill Mom's Heart 11 times
+32;1;;???;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f7bb4791470a130ca074bf8b8b7439784624f581.jpg;Beat Mom's Heart 10 times
+33;1;The game just got harder!;Everything is Terrible!!!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/ff9835c94f32c67602b45e62d58a3bc81582e003.jpg;Beat Mom's Heart 5 times
+34;1;Your future's past waits.;It Lives!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/8de4f96d3ad3501ab713f9fd26e02f62d69d2c00.jpg;Beat Mom's Heart 11 times
 35;8;;Mom's Contact;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f21466ed6a1003124df57242c1f9462d2ae573de.jpg;Collect 3 Mom items in one playthrough
 36;8;;The Necronomicon;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b4e86dfcacd3285737aadd6c3f6b6c2ba34ef533.jpg;Use the Death card 4 times
 37;10;Beat basement without taking damage.;Basement Boy;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f732080101a581c4b34eebc16d6ff946e4ad235c.jpg;Beat Chapter 1 without taking damage
 38;10;Beat caves without taking damage.;Spelunker Boy;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/042cfd6dd69abee2934864f940b57d372e7441e1.jpg;Beat Chapter 2 without taking damage
 39;10;Beat depths without taking damage.;Dark Boy;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/4a1caa4d760ab294acbb4310d2b30ef21f987b97.jpg;Beat Chapter 3 without taking damage
 40;10;Beat womb without taking damage.;Mama's Boy;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/900185e458585929b0e82dc92d17435a75375b67.jpg;Beat Chapter 4 without taking damage
-41;11;;Golden God!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/35e1d5b2f688876861eff77827d76d3f2b5b8dfd.jpg;Kill ??? and The Lamb
+41;11;;Golden God!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/35e1d5b2f688876861eff77827d76d3f2b5b8dfd.jpg;Beat ??? and The Lamb
 42;8;Unlocked a new character.;Eve;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/fdf7005674528c4b51f1d596962f079126022c71.jpg;Don't pick up any hearts for 2 floors in a row
-43;3;;Mom's Knife;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/085e86cb271415f9d6f6700ae64fe8c940847418.jpg;Kill Satan with Isaac
-44;3;;The Razor;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/68b8460669011012c1b718b89c2f782bdeeb93ee.jpg;Kill Satan with Eve
-45;3;;Guardian Angel;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f44778ceba1bfccf3efd726f6ce8c6bdd34434ab.jpg;Kill Satan with Maggy
-46;3;;A Bag of Bombs;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/c143f615e068ef93e9e18ac25caf9b4cafe63b42.jpg;Kill Satan with Cain
-47;5;;Demon Baby;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d6305b0e090515786c84f73044980bf5b56d834b.jpg;Kill The Lamb with Azazel
-48;3;;Forget Me Now;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/3fd9f027d8a3ac100e9f6dd17a3c37c8f20a1b41.jpg;Kill Satan with ???
-49;4;;The D20;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/829e854585f907b989df4d8bea6aa3295762e735.jpg;Kill ??? with Isaac
-50;4;;Celtic Cross;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b2f2af0aa4c7e0f9c79d9ff5d92150f95e6dc1a6.jpg;Kill ??? with Maggy
-51;5;;Abel;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/57a0774248f63d496704e9d4475079b9a01b8577.jpg;Kill The Lamb with Cain
-52;5;;Curved Horn;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/3e4b9a3011cc4499141727b56fb3004aa0a21160.jpg;Kill The Lamb with Judas
-53;4;;Sacrificial Dagger;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d6d5a1cde0fcc1fed4451bba71546dd934d27caa.jpg;Kill ??? with Eve
-54;2;;Bloody Lust;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/7aff3b559c772ccc05309cdf8b58cbabf7b86d1f.jpg;Kill Isaac with Samson
-55;4;;Blood Penny;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/c792fc9ba2cee10a4838639ef24796254c0ffce5.jpg;Kill ??? with Samson
-56;3;;Blood Rights;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/adba32944289484bbb40b8d22a35a8e4ea3fb010.jpg;Kill Satan with Samson
-57;2;;The Polaroid;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/7344e82782324511a5ee05e04500eb84fa7ca608.jpg;Kill Isaac 5 times
+43;3;;Mom's Knife;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/085e86cb271415f9d6f6700ae64fe8c940847418.jpg;Beat Satan with Isaac
+44;3;;The Razor;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/68b8460669011012c1b718b89c2f782bdeeb93ee.jpg;Beat Satan with Eve
+45;3;;Guardian Angel;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f44778ceba1bfccf3efd726f6ce8c6bdd34434ab.jpg;Beat Satan with Maggy
+46;3;;A Bag of Bombs;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/c143f615e068ef93e9e18ac25caf9b4cafe63b42.jpg;Beat Satan with Cain
+47;5;;Demon Baby;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d6305b0e090515786c84f73044980bf5b56d834b.jpg;Beat The Lamb with Azazel
+48;3;;Forget Me Now;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/3fd9f027d8a3ac100e9f6dd17a3c37c8f20a1b41.jpg;Beat Satan with ???
+49;4;;The D20;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/829e854585f907b989df4d8bea6aa3295762e735.jpg;Beat ??? with Isaac
+50;4;;Celtic Cross;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b2f2af0aa4c7e0f9c79d9ff5d92150f95e6dc1a6.jpg;Beat ??? with Maggy
+51;5;;Abel;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/57a0774248f63d496704e9d4475079b9a01b8577.jpg;Beat The Lamb with Cain
+52;5;;Curved Horn;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/3e4b9a3011cc4499141727b56fb3004aa0a21160.jpg;Beat The Lamb with Judas
+53;4;;Sacrificial Dagger;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d6d5a1cde0fcc1fed4451bba71546dd934d27caa.jpg;Beat ??? with Eve
+54;2;;Bloody Lust;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/7aff3b559c772ccc05309cdf8b58cbabf7b86d1f.jpg;Beat Isaac with Samson
+55;4;;Blood Penny;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/c792fc9ba2cee10a4838639ef24796254c0ffce5.jpg;Beat ??? with Samson
+56;3;;Blood Rights;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/adba32944289484bbb40b8d22a35a8e4ea3fb010.jpg;Beat Satan with Samson
+57;2;;The Polaroid;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/7344e82782324511a5ee05e04500eb84fa7ca608.jpg;Beat Isaac 5 times
 58;8;;Dad's Key;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d4070079c1c64fa4817ff8e84bee9431e96524c1.jpg;Collect both Key pieces from the Angels
 59;12;;Blue Candle;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d746744c715c5ec1a9d14d54216ba97596c209f8.jpg;Donate 900 pennies to the shop
 60;7;;Burnt Penny;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/51da857cf8dda83508ef5111080d3f590a1d246a.jpg;Beat challenge #13
@@ -66,17 +66,17 @@ id;category;description;display;icon;unlockedBy
 65;8;;Guppy's Hairball;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/5e83d35fb2f217d2569493f9885bb50f1a4c3506.jpg;Become Guppy (Collect 3 Guppy Items)
 66;8;Unlocked a new boss!;A Forgotten Horseman;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/3ee15d8b922f533f2f6f3e67d16a08e39c585480.jpg;Take 10 items from Angel Rooms
 67;10;Unlocked a new character.;Samson;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a9deb948370ec83d32885552aa0ff00946736690.jpg;Beat 2 floors in a row without taking damage
-68;2;New boss in the womb!;Something Icky;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a28057b4d0efd76b5f530e3be1fb75bc09a54810.jpg;Kill Isaac (Boss) 10 times
+68;2;New boss in the womb!;Something Icky;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a28057b4d0efd76b5f530e3be1fb75bc09a54810.jpg;Beat Isaac (Boss) 10 times
 69;8;;!Platinum God!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/cbe79358952288e9a6989254eb1e09bdba74f343.jpg;Collect all items in the game, unlock all of the secrets and endings minus The Lost and his 7 unlockable items
 70;6;;Isaac's Head;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/782c3779ea0c9c141a2677df23f354a039fa4f33.jpg;Beat Boss Rush with Isaac
-71;5;;Maggy's Faith;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f93738874600854fd0b314fe05e12d7eafef5a69.jpg;Kill The Lamb with Maggy
-72;3;;Judas' Tongue;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/885c47b3cfbee1f1338e05837e60c9c02c2cf065.jpg;Kill Satan with Judas
-73;5;;???'s Soul;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/237c9e788f4bb956d716cc2541acf0593229683d.jpg;Kill The Lamb with ???
-74;5;;Samson's Lock;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a2f0cfd886b079feb2bed962f859cfc5bcb19a7e.jpg;Kill The Lamb with Samson
-75;4;;Cain's Eye;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/32798c117ac3dde1d5775ab142c7e48327789193.jpg;Kill ??? with Cain
-76;2;;Eve's Bird Foot;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/bcefa390cbc3de440f685eb5976bf245d1146ed5.jpg;Kill Isaac with Eve
+71;5;;Maggy's Faith;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f93738874600854fd0b314fe05e12d7eafef5a69.jpg;Beat The Lamb with Maggy
+72;3;;Judas' Tongue;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/885c47b3cfbee1f1338e05837e60c9c02c2cf065.jpg;Beat Satan with Judas
+73;5;;???'s Soul;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/237c9e788f4bb956d716cc2541acf0593229683d.jpg;Beat The Lamb with ???
+74;5;;Samson's Lock;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a2f0cfd886b079feb2bed962f859cfc5bcb19a7e.jpg;Beat The Lamb with Samson
+75;4;;Cain's Eye;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/32798c117ac3dde1d5775ab142c7e48327789193.jpg;Beat ??? with Cain
+76;2;;Eve's Bird Foot;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/bcefa390cbc3de440f685eb5976bf245d1146ed5.jpg;Beat Isaac with Eve
 77;4;;The Left Hand;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/9705c9f8f26fae8dfc32670cd49b86b9b5330cc6.jpg;Beat ??? with Judas or beat Ultra Pride
-78;3;;The Negative;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/fd2b19ef9aeb5ac8d0ef9616d082236dc4e5d060.jpg;Kill Satan 5 times
+78;3;;The Negative;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/fd2b19ef9aeb5ac8d0ef9616d082236dc4e5d060.jpg;Beat Satan 5 times
 79;8;Unlocked a new character.;Azazel;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/6570bf8ea557989f23215aea3a3afa3ca43ca49e.jpg;Make 3 deals with the devil in one run
 80;8;Unlocked a new character.;Lazarus;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/788e3081f9edf9831738909b9d32f835e0b75658.jpg;Have 4 or more soul hearts at one time
 81;10;Unlocked a new character.;Eden;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/32762356ae78283cd6f0e64dbc075d0ecfdb6198.jpg;Beat Chapter 4 for the 1st time
@@ -104,8 +104,8 @@ id;category;description;display;icon;unlockedBy
 103;7;;Death's Touch;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a15828bd58afdcd201e666c173ec9a7b04b3fc18.jpg;Beat challenge #17
 104;7;;Technology .5;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/aa8bc18f5c48fa120ab8da9831fbd195361e8657.jpg;Beat challenge #18
 105;6;;Missing No.;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d2d8fc385d46ce2762e3d6090a4a64677c8e8fdc.jpg;Beat Boss Rush with Lazarus
-106;2;;Isaac's Tears;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/384414fdb64313492108541994f6a2ba084e86c7.jpg;Kill Isaac with Isaac
-107;2;;Guillotine;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/af07a49491ae729ef3c4a7f6f30262c9af3f378b.jpg;Kill Isaac with Judas
+106;2;;Isaac's Tears;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/384414fdb64313492108541994f6a2ba084e86c7.jpg;Beat Isaac with Isaac
+107;2;;Guillotine;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/af07a49491ae729ef3c4a7f6f30262c9af3f378b.jpg;Beat Isaac with Judas
 108;6;;Judas' Shadow;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/578be7d2c20c1b53023b216b6caa16a590a8ffd2.jpg;Beat Boss Rush with Judas
 109;6;;Maggy's Bow;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/513d3d92b0034005161d0bd0a1e895db43051926.jpg;Beat Boss Rush with Maggy
 110;6;;Cain's Other Eye;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/89535e6b48a725bd6d97012a78709857f1df7c75.jpg;Beat Boss Rush with Cain
@@ -114,23 +114,23 @@ id;category;description;display;icon;unlockedBy
 113;4;;Fate;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/c410c1154ad1d5b2c85d79af2d2020f477062096.jpg;Beat ??? with ???
 114;6;;???'s Only Friend;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f2cc3f51cad58ef8de53217b7735bfe689955ca4.jpg;Beat Boss Rush with ???
 115;6;;Samson's Chains;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/90ede3ee4bdd1ea35a4abc0fc966a42b41b2cf4a.jpg;Beat Boss Rush with Samson
-116;2;;Lazarus' Rags;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b23edce72ece02eda55e3f98b78bce0f8a429721.jpg;Kill Isaac with Lazarus
-117;3;;Broken Ankh;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/104db9e1a2094e5668daf4d0e955c7a0fa443aee.jpg;Kill Satan with Lazarus
+116;2;;Lazarus' Rags;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b23edce72ece02eda55e3f98b78bce0f8a429721.jpg;Beat Isaac with Lazarus
+117;3;;Broken Ankh;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/104db9e1a2094e5668daf4d0e955c7a0fa443aee.jpg;Beat Satan with Lazarus
 118;4;;Store Credit;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/4b8db6b11a72c12ab81fb94ecea241dc2b4b637e.jpg;Beat ??? with Lazarus
 119;5;;Pandora's Box;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f94973cee5b59d22eff3a45af598162dcf51a598.jpg;Beat The Lamb with Lazarus
 120;7;;Suicide King;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/c2a9465bd6f1b43e9a04519fb7bc45b7199f355d.jpg;Beat challenge #7
-121;2;;Blank Card;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/70d7d64f145b4afeb4fc867fb7a207c12ade35a5.jpg;Kill Isaac with Eden
-122;3;;Book of Secrets;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/77158c43fa3cb7bc9f545033964505d010adf467.jpg;Kill Satan with Eden
+121;2;;Blank Card;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/70d7d64f145b4afeb4fc867fb7a207c12ade35a5.jpg;Beat Isaac with Eden
+122;3;;Book of Secrets;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/77158c43fa3cb7bc9f545033964505d010adf467.jpg;Beat Satan with Eden
 123;4;;Mysterious Paper;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/08234477a8f152f0553b57fb057760b604c3763a.jpg;Beat ??? with Eden
 124;5;;Mystery Sack;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/6e417bea5d575d2bf2853e17b2dce6647e8040a8.jpg;Beat The Lamb with Eden
 125;6;;Undefined;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/70f6ac0ad8bd9b613c1c118af51500143ae4eb5a.jpg;Beat Boss Rush with Eden
-126;2;;Satanic Bible;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/5a1eeebafb0d6d49ea5cdd7a0755fff876e9e3aa.jpg;Kill Isaac with Azazel
-127;3;;Daemon's Tail;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/bcb08f33523ec7e4132b4ad7d58dec8285a179c5.jpg;Kill Satan with Azazel
+126;2;;Satanic Bible;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/5a1eeebafb0d6d49ea5cdd7a0755fff876e9e3aa.jpg;Beat Isaac with Azazel
+127;3;;Daemon's Tail;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/bcb08f33523ec7e4132b4ad7d58dec8285a179c5.jpg;Beat Satan with Azazel
 128;4;;Abaddon;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/ffe2c2692092da6cec4a0bd0cf39cd7cf44f4947.jpg;Beat ??? with Azazel
-129;2;;Isaac's Heart;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/70883b9ec63afc3c46a79f32e004ab24d8523e9e.jpg;Kill isaac with The Lost
-130;3;;The Mind;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/fa070d0120d3e2e500cfd587a9692682072cf7b7.jpg;Kill Satan with The Lost
-131;4;;The Body;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/bc0e4096839fe3cab068312e4618e41e40169e1a.jpg;Kill ??? with The Lost
-132;5;;The Soul;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/866f849bc279efc9278c426fdc61e14ea789a865.jpg;Kill The Lamb with The Lost
+129;2;;Isaac's Heart;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/70883b9ec63afc3c46a79f32e004ab24d8523e9e.jpg;Beat isaac with The Lost
+130;3;;The Mind;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/fa070d0120d3e2e500cfd587a9692682072cf7b7.jpg;Beat Satan with The Lost
+131;4;;The Body;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/bc0e4096839fe3cab068312e4618e41e40169e1a.jpg;Beat ??? with The Lost
+132;5;;The Soul;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/866f849bc279efc9278c426fdc61e14ea789a865.jpg;Beat The Lamb with The Lost
 133;6;;The D100;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/ca5f0db670cfe1716f888f9977d0fce989466a98.jpg;Beat Boss Rush with The Lost
 134;12;;Blue Map;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/303b7d93465c0565d430a6b68a9147f4fd7919b4.jpg;Donate 10 pennies to the shop
 135;12;;There's Options;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/1c92620430a9c60e23a5af7ceb6abb65496b73de.jpg;Donate 50 pennies to the shop
@@ -141,7 +141,7 @@ id;category;description;display;icon;unlockedBy
 140;1;;Ipecac;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/ed3f07a848553b8930d590fd007d973fef1871de.jpg;Beat Mom's Heart 6 times
 141;1;;Experimental Treatment;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/006615fafe9db5b4f92f9a278757583d63f6b8b3.jpg;Beat Mom's Heart 7 times
 142;8;;Krampus;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b72a45f3baacccf1ebe98a69bde5667a5ca6f1cd.jpg;Take 20 items from devil rooms
-143;11;;Head of Krampus;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/2d0efde3fa29478e18ffa0de3f3de3512ae3e61e.jpg;Kill Krampus
+143;11;;Head of Krampus;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/2d0efde3fa29478e18ffa0de3f3de3512ae3e61e.jpg;Beat Krampus
 144;8;Built him out of meat cubes.;Super Meat Boy;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/6f5e11a6a0bca2c94b4a42cf9bf905640d7c1b35.jpg;Make a super meat boy
 145;8;;Butter Bean;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/bc4f54b85bcfc4579926eee659fe2ee195fe9180.jpg;Destroy 100 poops
 146;8;;Little Baggy;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f7a523e1b7f923a43611530abe501d510e525297.jpg;Collect 2 of either roid rage, the virus, growth hormones, experimental treatment or speed ball
@@ -164,7 +164,7 @@ id;category;description;display;icon;unlockedBy
 163;7;;Cursed!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/1f0eed37fa705c7f16df9af35a64252ad4107775.jpg;Unlock Magdalene
 164;7;;Glass Cannon;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/9223599bc565123671b127256b3d29aac2d18f6c.jpg;Unlock Epic Fetus and Loki's Horns
 165;7;;The Family Man;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f598ea34a68e2071e227ac0c2cbeaeffe577bad6.jpg;Unlock Dad's Key
-166;9;;Purist;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a600f71a773cfa7997b7a25fd69ae7173f8b78e0.jpg;Kill Mom for the first time
+166;9;;Purist;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a600f71a773cfa7997b7a25fd69ae7173f8b78e0.jpg;Beat Mom for the first time
 167;13;;Lost Baby;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b36b68337e98fac9e48bb49d60ce4b0ddffcb407.jpg;Beat Mom's Heart on hard mode with Isaac
 168;13;;Cute Baby;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/367e3162d635c06371d14a793fc1a72757cc62db.jpg;Beat Mom's Heart on hard mode with Maggy
 169;13;;Crow Baby;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a74c8947c66c93f0a083d38be71bd27833411cea.jpg;Beat Mom's Heart on hard mode with Eve
@@ -177,18 +177,18 @@ id;category;description;display;icon;unlockedBy
 176;13;;Glitch Baby;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b9f90720bbc173f76ec1a2267bf1f029d72bd22c.jpg;Beat Mom's Heart on hard mode with Eden
 177;13;;Fighting Baby;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/eb234e74edd0c7f191881dc2eeebb39e9602afe6.jpg;Beat Mom's Heart on hard mode with Samson
 178;8;You became Lord of the Flies.;Lord of the Flies;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/3eec49150b625cdf4a6766f1a6935eb2061d0ba1.jpg;Become Lord of the Flies (Collect 3 Fly Items)
-179;14;Unlocked a new item.;Fart Baby;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/7ffe937ae4588551dac059442347e1eb5a6d1472.jpg;Defeat Hush with Isaac
-180;14;Unlocked a new item.;Purity;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/953dba120287b19daf17feafd8c8023af9c561d1.jpg;Defeating Hush with Magdalene
-181;14;Unlocked a new item.;D12;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/46423da1512e676dd260a29c106470cfaee40462.jpg;Defeating Hush with Cain
-182;14;Unlocked a new item.;Betrayal;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/ff4e81741c4e57ce19a19fa202785fda579bf500.jpg;Defeating Hush with Judas
-183;14;Unlocked a new item;Fate's Reward;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/508bd518c42b71d4caf165aba57aae83ee55ad1b.jpg;Defeating Hush with ???
-184;14;Unlocked a new item.;Athame;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/7fc9a974e7695bdd77456ee631badad33424406e.jpg;Defeating Hush with Eve
-185;14;Unlocked a new item.;Blind Rage;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/c343d1b3854b5bff2fdb15ab14b3782f46732194.jpg;Defeating Hush with Samson
-186;14;Unlocked a new item.;Maw of the Void;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a437ac9fe8d17f4f91f8312a5f02e28dbc20fdb9.jpg;Defeating Hush as Azazel
-187;14;Unlocked a new item.;Empty Vessel;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/0a18fea587e09a4766eba7def68267d33f9f5ed6.jpg;Defeating Hush with Lazarus
-188;14;Unlocked a new item.;Eden's Blessing;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/1f32bb53612fdf6d920bb9c71e77f8cedfaedab5.jpg;Defeating Hush with Eden
-189;14;Unlocked a new item.;Sworn Protector;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/ddd104ad1d584e5e36db811ed9e0a2c26b582556.jpg;Defeating Hush as The Lost
-190;14;Unlocked a new item.;Incubus;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d72bcdc340915d39472186606c93613cf57054b4.jpg;Defeating Hush with Lilith
+179;14;Unlocked a new item.;Fart Baby;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/7ffe937ae4588551dac059442347e1eb5a6d1472.jpg;Beat Hush with Isaac
+180;14;Unlocked a new item.;Purity;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/953dba120287b19daf17feafd8c8023af9c561d1.jpg;Beat Hush with Magdalene
+181;14;Unlocked a new item.;D12;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/46423da1512e676dd260a29c106470cfaee40462.jpg;Beat Hush with Cain
+182;14;Unlocked a new item.;Betrayal;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/ff4e81741c4e57ce19a19fa202785fda579bf500.jpg;Beat Hush with Judas
+183;14;Unlocked a new item;Fate's Reward;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/508bd518c42b71d4caf165aba57aae83ee55ad1b.jpg;Beat Hush with ???
+184;14;Unlocked a new item.;Athame;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/7fc9a974e7695bdd77456ee631badad33424406e.jpg;Beat Hush with Eve
+185;14;Unlocked a new item.;Blind Rage;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/c343d1b3854b5bff2fdb15ab14b3782f46732194.jpg;Beat Hush with Samson
+186;14;Unlocked a new item.;Maw of the Void;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a437ac9fe8d17f4f91f8312a5f02e28dbc20fdb9.jpg;Beat Hush as Azazel
+187;14;Unlocked a new item.;Empty Vessel;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/0a18fea587e09a4766eba7def68267d33f9f5ed6.jpg;Beat Hush with Lazarus
+188;14;Unlocked a new item.;Eden's Blessing;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/1f32bb53612fdf6d920bb9c71e77f8cedfaedab5.jpg;Beat Hush with Eden
+189;14;Unlocked a new item.;Sworn Protector;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/ddd104ad1d584e5e36db811ed9e0a2c26b582556.jpg;Beat Hush as The Lost
+190;14;Unlocked a new item.;Incubus;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d72bcdc340915d39472186606c93613cf57054b4.jpg;Beat Hush with Lilith
 191;14;Unlocked a new item.;Keeper now holds... A Penny!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/7e4ddbbf23890d4541bad55e0afaf8d8b9a75940.jpg;Beat Hush with Keeper
 192;15;Unlocked a new item.;Lil' Chest;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/6fa212f2086b6fe5d9f1ae4264d573737570623e.jpg;Beat Greed Mode as Isaac 
 193;15;Unlocked a new item.;Censer;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/617de3bc89d7f6998fb92d1f864357fd9dfaee74.jpg;Completing Greed Mode with Magdalene
@@ -217,21 +217,21 @@ id;category;description;display;icon;unlockedBy
 216;16;Unlocked a new co-player baby.;Big Baby;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/e109c8fabb77b929c6575fe38ad9b305243f552c.jpg;Beat Mega Satan with Lilith
 217;16;Unlocked a new item.;Noose Baby;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/45bad0c6ceb70999d724a2dca948695bbdf86da2.jpg;Beat Mega Satan with Keeper
 218;2;Unlocked a new item.;Rune Bag;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/5e4e7b2998a634359e727ffd2e2318ceb5aad1db.jpg;Beat Isaac with Lilith
-219;4;Unlocked a new item.;Cambion Conception;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/36200dcb8dcdf338fdd0dc473d43ad474f6dfd1f.jpg;Defeating ??? with Lilith
-220;3;Unlocked a new item.;Serpent's Kiss;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/3db64f17aee90f817bd1fba5026b22db0569fda4.jpg;Beating Satan with Lilith 
-221;5;Unlocked a new item.;Succubus;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/2f9d82e69c0ee7a241a3eb6e21913a0ee3e21f80.jpg;Defeating The Lamb with Lilith
-222;6;Unlocked a new item.;Immaculate Conception;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b05029b3169d887ce4c886d2bf0686c83b5263bf.jpg;Defeat Boss Rush with Lilith
+219;4;Unlocked a new item.;Cambion Conception;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/36200dcb8dcdf338fdd0dc473d43ad474f6dfd1f.jpg;Beat ??? with Lilith
+220;3;Unlocked a new item.;Serpent's Kiss;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/3db64f17aee90f817bd1fba5026b22db0569fda4.jpg;Beat Satan with Lilith 
+221;5;Unlocked a new item.;Succubus;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/2f9d82e69c0ee7a241a3eb6e21913a0ee3e21f80.jpg;Beat The Lamb with Lilith
+222;6;Unlocked a new item.;Immaculate Conception;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b05029b3169d887ce4c886d2bf0686c83b5263bf.jpg;Beat Boss Rush with Lilith
 223;13;Unlocked a new co-player baby.;Goat Head Baby;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/e1a481b8748663b54a5bcc54b885c599cbcad910.jpg;Beat Mom's Heart on hard mode with Lilith
-224;7;Unlocked a new item.;Gold Heart;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f78a9c70039ad030a2e2722ca21ca5561eb39c03.jpg;Beat challenge #21 ( XXXXXXXXL )
-225;7;Unlocked a new item.;Get out of Jail Free Card;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/8c0bbf465024e0a0e509e890ba98c0665ac5b80a.jpg;Beat challenge #22 ( SPEED! )
-226;7;Unlocked a new item.;Gold Bomb;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/344a78229700b5eb7ae952d8081c350a73bf7f6d.jpg;Beat challenge #23 ( Blue Bomber )
-227;7;Unlocked a new item.;2 new pills;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/9534db34dee7f323a09bd6d6880ae0112ca80a48.jpg;Beat challenge #24 ( PAY TO PLAY )
-228;7;Unlocked a new item.;2 new pills;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/9973f264da12aaabe136e678540f5006d66845f3.jpg;Beat challenge #25 ( Have A Heart )
-229;7;Unlocked a new item.;Poker Chip;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/666e06171f3e9cfe85a68f50591c5375631d74f3.jpg;Beat challenge #26 ( I RULE! )
-230;7;Unlocked a new item.;Stud Finder;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/e21a354c742beb84943513d5f31093d1f1040a65.jpg;Beat challenge #27( BRAINS! )
-231;7;Unlocked a new item.;D8;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/82bb010d2d0b3a1cbb28c31ccba208d3c14ea484.jpg;Beat challenge #28 ( PRIDE DAY! )
-232;7;Unlocked a new item.;Kidney Stone;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/95098933f47a19a9528e3ee9224ce16163aa775d.jpg;Beat challenge #29 ( Onan's Streak )
-233;7;Unlocked a new item.;Blank Rune;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/eef7ac62f633107e13573c7972c1f106452fe1cf.jpg;Beat challenge #30 ( The Guardian )
+224;7;Unlocked a new item.;Gold Heart;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f78a9c70039ad030a2e2722ca21ca5561eb39c03.jpg;Beat challenge #21 (XXXXXXXXL)
+225;7;Unlocked a new item.;Get out of Jail Free Card;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/8c0bbf465024e0a0e509e890ba98c0665ac5b80a.jpg;Beat challenge #22 (SPEED!)
+226;7;Unlocked a new item.;Gold Bomb;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/344a78229700b5eb7ae952d8081c350a73bf7f6d.jpg;Beat challenge #23 (Blue Bomber)
+227;7;Unlocked a new item.;2 new pills;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/9534db34dee7f323a09bd6d6880ae0112ca80a48.jpg;Beat challenge #24 (PAY TO PLAY)
+228;7;Unlocked a new item.;2 new pills;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/9973f264da12aaabe136e678540f5006d66845f3.jpg;Beat challenge #25 (Have A Heart)
+229;7;Unlocked a new item.;Poker Chip;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/666e06171f3e9cfe85a68f50591c5375631d74f3.jpg;Beat challenge #26 (I RULE!)
+230;7;Unlocked a new item.;Stud Finder;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/e21a354c742beb84943513d5f31093d1f1040a65.jpg;Beat challenge #27 (BRAINS!)
+231;7;Unlocked a new item.;D8;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/82bb010d2d0b3a1cbb28c31ccba208d3c14ea484.jpg;Beat challenge #28 (PRIDE DAY!)
+232;7;Unlocked a new item.;Kidney Stone;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/95098933f47a19a9528e3ee9224ce16163aa775d.jpg;Beat challenge #29 (Onan's Streak)
+233;7;Unlocked a new item.;Blank Rune;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/eef7ac62f633107e13573c7972c1f106452fe1cf.jpg;Beat challenge #30 (The Guardian)
 234;8;Unlocked a hidden chapter.;Blue Womb;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/59e4e9455915897134a0c67436fd3e8fb3ba5f49.jpg;
 235;8;Nerd x 1000000;1001%;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b0ccf94d1447bad38ef1ba2c476cbf9702c140b0.jpg;Unlock all of the secrets and endings, and collect every item in the game.
 236;2;Unlocked a new starting item.;Keeper holds Wooden Nickel;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/e243350a8b69678ebf3d7a9c5307c05123ac5bdd.jpg;Beat Isaac with Keeper
@@ -263,78 +263,78 @@ id;category;description;display;icon;unlockedBy
 262;17;Unlocked a new co-player baby.;Revenge Baby;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/83ed4cfb7ec3bc29c5b13019992ab7846a86024f.jpg;Unlock all Hard Mode Completion Marks with Samson
 263;17;Unlocked a new co-player baby.;Belial Baby;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b234fc51d5a389fa5d5750e504aff6cbb94d1f07.jpg;Unlock all Hard Mode Completion Marks with Judas
 264;17;Unlocked a new item.;Sale Baby;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/6220a196254c6c0c7254186e915fcd2b806fc361.jpg;Unlock all Hard Mode Completion Marks with Keeper
-265;7;Unlocked Challenge #21.;XXXXXXXXL;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/2699055e6489ae9610e497b22c995a107b4bfdca.jpg;
-266;7;Unlocked Challenge #22.;SPEED!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a939a08d886ae7a70023872b8c61ef4acc442ee9.jpg;
-267;7;Unlocked Challenge #23.;Blue Bomber;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b310ef502632d6bef75a8a253dcceb41e464e187.jpg;
-268;7;Unlocked Challenge #24.;PAY TO PLAY;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/590a5349afc93e2667c028b5bd67065a6c9535c8.jpg;
-269;7;Unlocked Challenge #25.;Have a heart;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/497cd1a50f5854e43acd6cea4ea904546e46ecbd.jpg;
-270;7;Unlocked Challenge #26.;I RULE!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/923cc8381a078df19fc308c6cb31eb863c778981.jpg;
-271;7;Unlocked Challenge #27.;BRAINS!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/4192c5ac2e4ee896019917819a687fd36380c4e7.jpg;
-272;7;Unlocked Challenge #28.;PRIDE DAY!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b9f18bafa9040efa9af8bdd5e0a6661f78abdafc.jpg;
-273;7;Unlocked Challenge #29.;Onan's Streak;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/080d48fe906dfee09b59d41ab30d7b6667fce0c7.jpg;
-274;7;Unlocked Challenge #30.;The Guardian;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/9fab42d65109bee39315741f1d4bfad79300d005.jpg;
+265;7;Unlocked challenge #21.;XXXXXXXXL;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/2699055e6489ae9610e497b22c995a107b4bfdca.jpg;
+266;7;Unlocked challenge #22.;SPEED!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a939a08d886ae7a70023872b8c61ef4acc442ee9.jpg;
+267;7;Unlocked challenge #23.;Blue Bomber;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b310ef502632d6bef75a8a253dcceb41e464e187.jpg;
+268;7;Unlocked challenge #24.;PAY TO PLAY;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/590a5349afc93e2667c028b5bd67065a6c9535c8.jpg;
+269;7;Unlocked challenge #25.;Have a heart;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/497cd1a50f5854e43acd6cea4ea904546e46ecbd.jpg;
+270;7;Unlocked challenge #26.;I RULE!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/923cc8381a078df19fc308c6cb31eb863c778981.jpg;
+271;7;Unlocked challenge #27.;BRAINS!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/4192c5ac2e4ee896019917819a687fd36380c4e7.jpg;
+272;7;Unlocked challenge #28.;PRIDE DAY!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b9f18bafa9040efa9af8bdd5e0a6661f78abdafc.jpg;
+273;7;Unlocked challenge #29.;Onan's Streak;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/080d48fe906dfee09b59d41ab30d7b6667fce0c7.jpg;
+274;7;Unlocked challenge #30.;The Guardian;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/9fab42d65109bee39315741f1d4bfad79300d005.jpg;
 275;15;;Generosity;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/eee50ec2ccb1a53cab844021f104629cc294aa1f.jpg;Donating 999 cents to the Greed Machine
-276;16;Unlocked...;Mega;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a39f06515573b423d0568112dd6e369bb972521a.jpg;Defeat Mega Satan with every character
-277;7;Unlocked a new challenge. ;Backasswards ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a24b3e30454163bd44c8af696c1d3f715924f0c7.jpg;Kill ??? or The Lamb for the first time 
-278;7;Unlocked a new challenge. ;Aprils Fool ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/2d1973330c0224f2c32a30a1d3a0f90cc3862821.jpg;Kill Mom for the first time 
-279;7;Unlocked a new challenge. ;Pokey Mans ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/7ea57ce44553255d7755c2d6539f618000469a07.jpg;Unlock It Lives! 
-280;7;Unlocked a new challenge. ;Ultra Hard ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/e14c6f343a68be381fde4feb6a32eb5d2f6ef083.jpg;Kill ??? or The Lamb for the first time 
-281;7;Unlocked a new challenge. ;PONG ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f4aa8fcce92c7458ff42db5f7800ec60ebd7ea2d.jpg;Unlock The Polaroid 
-282;19;Unlocked a new item. ;D Infinity ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/6d15635be833496d9f631be685d8ba1e98ab330a.jpg;Defeat Delirium as Isaac 
-283;19;Unlocked a new item. ;Eucharist ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/9fabbf6365b3e38d2c86f75eca0f9488865146f1.jpg;Defeat Delirium as Magdalene 
-284;19;Unlocked a new item. ;Silver Dollar ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/0063c36cdf4f2d4ea07ca3235673707f48af1725.jpg;Defeat Delirium as Cain 
-285;19;Unlocked a new item. ;Shade ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/eb118ac38a9d23ab0637472b92c3242a24394757.jpg;Defeat Delirium as Judas 
-286;19;Unlocked a new item. ;King Baby ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/6fbd76ba8c073b83e44c1a8f39139e86ed2f4829.jpg;Defeat Delirium as ??? 
-287;19;Unlocked a new item. ;Bloody Crown ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b80f7f734f2f6fad1d43a8d2d97e26d50a6f9fe8.jpg;Defeat Delirium as Samson 
-288;19;Unlocked a new item. ;Dull Razor ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d5b7da4584398fdaf1086ed42cc9dbac9f2251e3.jpg;Defeat Delirium as Eve 
-289;19;Unlocked a new item. ;Eden's Soul ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/9b7edfa7a0c5af210df90fde3e9566934c758ed2.jpg;Defeat Delirium as Eden 
-290;19;Unlocked a new item. ;Dark Prince's Crown ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/12c3d67997282e87cce250a4e597be6ebd9e9f70.jpg;Defeat Delirium as Azazel 
-291;19;Unlocked a new item. ;Compound Fracture ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b36feaafd10ff37d231d8b5f59716a942347730b.jpg;Defeat Delirium as Lazarus 
-292;19;Unlocked a new item. ;Euthanasia ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/930c5a478fde36b74c50fe9631083122bd7f4778.jpg;Defeat Delirium as Lilith 
-293;19;Unlocked a new item. ;Holy Card ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/4e20ecbe0881a4524f739ff2b2ff13186685578f.jpg;Defeat Delirium as The Lost 
-294;19;Unlocked a new item. ;Crooked Penny ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b155ce7acd3a8ee33b1add7d31432adf3df1619d.jpg;Defeat Delirium as Keeper 
-295;19;Unlocked a new item. ;Void ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d7f8e95cf303ea1ff8cc979977e8f922806cf94c.jpg;Defeat Delirium as Apollyon 
-296;18;Unlocked a new item. ;D1 ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/223e5059a9f575f0fdf5e8ef4e6216200f2b440e.jpg;Beat Greedier Mode with Isaac 
-297;18;Unlocked a new item. ;Glyph Of Balance ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d30de05ccc8299ec2c1eb68af6a81030c9e02443.jpg;Beat Greedier Mode with Magdalene 
-298;18;Unlocked a new item. ;Sack Of Sacks ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d76337520e26a6b19d928ceea731969a3dffd1d1.jpg;Beat Greedier Mode with Cain 
-299;18;Unlocked a new item. ;Eye Of Belial ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/450877c1799cc0af987cda4b47309f903403e4c6.jpg;Beat Greedier Mode with Judas 
-300;18;Unlocked a new item. ;Meconium ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/040a208cd01f8e8ba3749d7119ddc7c44dd82654.jpg;Beat Greedier Mode with ??? 
-301;18;Unlocked a new item. ;Stem Cell ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/c12ca0df8efaa81394ee0e58b4a46c7a89c8c219.jpg;Beat Greedier Mode with Samson 
-302;18;Unlocked a new item. ;Crow Heart ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/71245e86d713cde3d7cb03d263e69b54c75a5c07.jpg;Beat Greedier Mode with Eve 
-303;18;Unlocked a new item. ;Metronome ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/643a9cbcb8d760137a02307ea64abc52c9a57e2e.jpg;Beat Greedier Mode with Eden 
-304;18;Unlocked a new item. ;Bat Wing ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/6efde17491ee86afd348292c7f051fc112ee5b0e.jpg;Beat Greedier Mode with Azazel 
-305;18;Unlocked a new item. ;Plan C ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/e5156678aaeb313dff140a815c510feecb5154ca.jpg;Beat Greedier Mode with Lazarus 
-306;18;Unlocked a new item. ;Duality ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/e25209ffb816e293b7cfc9036799b5e9562f8b4b.jpg;Beat Greedier Mode with Lilith 
-307;18;Unlocked a new item. ;Dad's Lost Coin ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b6be7c582a75f691700d7bc2bcc2b3b1a1ade763.jpg;Beat Greedier Mode with The Lost 
-308;18;Unlocked a new item. ;Eye Of Greed ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/8b7cd19f8572a6c67034ab2e7ba8237b3d994562.jpg;Beat Greedier Mode with Keeper 
-309;18;Unlocked a new item. ;Black Rune ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/5deba59beb955c61d4cecefca7577b92de268774.jpg;Beat Greedier Mode with Apollyon 
-310;2;Unlocked a new item. ;Locust Of Wrath ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/9a4d126a445cbb514fffafad22126a787bbc9d5b.jpg;Defeat Isaac as Apollyon 
-311;3;Unlocked a new item. ;Locust Of Pestilence ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/77a8249867b74702e065b9bb3a6846f70d8ab7d4.jpg;Defeat Satan as Apollyon 
-312;4;Unlocked a new item. ;Locust Of Famine ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/8e440d30bc6656c1df24127c6789888e4486e2ef.jpg;Defeat ??? as Apollyon 
-313;5;Unlocked a new item. ;Locust Of Death ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/ab6a4aeb801aab6eb23bd5984403e7b20eb22858.jpg;Defeat The Lamb as Apollyon 
-314;6;Unlocked a new item. ;Locust Of Conquest ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/67656154d6c3a37dc97e6b86c2a77a8fb46e67df.jpg;Complete Boss Rush as Apollyon 
-315;14;Unlocked a new item. ;Hushy ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/4a68ec55778b01e7080f0a7412b4d7d7a34c6807.jpg;Defeat Hush as Apollyon 
-316;15;Unlocked a new item. ;Brown Nugget ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/34ae9b55b9f410a548f838bbcb48f1b4ba3b8302.jpg;Defeat Ultra Greed as Apollyon 
-317;16;Unlocked a new co-player baby. ;Mort Baby ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/01c1db37742f35182d3a0451c816799a7a85c7f3.jpg;Defeat Mega Satan as Apollyon 
-318;1;Unlocked a new item. ;Smelter ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/33df7b8942609d40b8786159cf08fe7e5d3c390a.jpg;Defeat Mom's Heart or It Lives! as Apollyon 
-319;17;Unlocked a new co-player baby. ;Apollyon Baby ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/bd61f807aae2cc66b23d98640cce159782b4188b.jpg;Earn all Hard Mode Completion Marks with Apollyon 
-320;14;Unlocked a new area. ;New Area ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f5656a31f8563b25f595cee513c6831c512a9d26.jpg;Defeat Hush for the first time 
-321;8;Unlocked a new item. ;Once More With Feeling! ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/941719a2fd06a69093cef6cb77039c8c91427055.jpg;Complete a Victory Lap, defeating The Lamb 
-322;8;Unlocked a new item. ;Hat trick! ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/840ebcf84938a6fc7b04fdab7a3b1201234681cc.jpg;Get a 3-win streak 
-323;8;Unlocked super special rocks. ;5 Nights at Mom's ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/5ac8c39d74f86319870c872cc2aadff51d81701b.jpg;Get a 5-win streak using a different character for each win. 
-324;8;Unlocked a new item. ;Sin Collector ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/86504ef3d49b3deca8196aec68aaeac241f49aa2.jpg;Collect every entry in the Bestiary (Bugged v190 - Mobs that don't exist in the bestiary are being counted. This allows Sin Collector to be unlocked without a complete bestiary) 
-325;8;Unlocked a new item. ;Dedication ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/ba8e1fae2c6109f8977d1e9250c77ed7fe640c4b.jpg;Participate in 31 dailies in a row 
-326;5;Unlocked a new item. ;ZIP! ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/cf1c036aa3ece401fddb5089e8e912ef0ca99b68.jpg;Defeat The Lamb in under 20 minutes. 
-327;5;Unlocked a new item. ;It's the Key ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/cab3f838c09972f8275de0ed0b562d6f08832e90.jpg;Defeat The Lamb without taking hearts, coins and bombs. 
-328;8;Unlocked a new item. ;Mr. Resetter! ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/6fd9528a261c33bed72c7f2799026c8cec1c3e16.jpg;Reset 7 times in a row. 
-329;8;Unlocked a new item. ;Living on the edge ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/bc11ab794ecc78a5729cf3afaa975968fcdcf4c4.jpg;Beat a floor after Basement I, start-to-finish, with only half a heart of health (can use The Lost) 
-330;8;Unlocked a new item. ;U Broke It! ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/875ce6d4ab992022c74503752ee6696c808ea5ac.jpg;Obtain 50 items on a run (e.g., via two Steam Sales and Restock. Duplicate passives/familiars count towards the total, e.g., multiple Breakfasts) 
-331;7;Unlocked a new starting item. ;Laz Bleeds More! ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/e9d3c0460728576488d0c1bebca94991ee969ab1.jpg;Beat Challenge #31 
-332;7;Unlocked a new starting item. ;Maggy Now Holds a Pill! ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d188bcf9972a5a76e1d658072b4d59bca485c580.jpg;Beat Challenge #32 
-333;7;Unlocked a new item. ;Charged Key ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/76d03074494a3d9b14cf1917edd8d79e45f1586e.jpg;Beat Challenge #33 
-334;7;Unlocked a new starting item. ;Samson Feels Healthy! ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/8743956367b508c36b6f6182648f74b79eb87c2c.jpg;Beat Challenge #34 
-335;7;Unlocked a new item. ;Greed's Gullet ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/cb953de0616484415501e4f1b151c11b95f29766.jpg;Beat Challenge #35 
-336;8;Unlocked a new item. ;The Marathon ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/24bfc4f074679e42ff56dd71127b0830033e9495.jpg;Get a 5-win streak in Daily Challenges (does not need to be over 5 days in a row). 
-337;8;Unlocked the power of RERUN. ;RERUN ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/0ef4451d59a8a0766fbfedf9f556dca7ae3fbb0f.jpg;Complete 3 Victory Laps and start a 4th. 
-338;8;Unlocked a new item. ;Delirious ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/c46c5adfbbddce1f341eb18ac450f542ba774884.jpg;Defeat Delirium for the first time on any character. 
-339;8;Just Stop! ;1000000% ;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/6673cb1141bae8012ef6b13090e796e3a8ed5dc2.jpg;
+276;16;Unlocked...;Mega;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a39f06515573b423d0568112dd6e369bb972521a.jpg;Beat Mega Satan with every character
+277;7;Unlocked a new challenge.;Backasswards;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/a24b3e30454163bd44c8af696c1d3f715924f0c7.jpg;Beat ??? or The Lamb for the first time 
+278;7;Unlocked a new challenge.;Aprils Fool;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/2d1973330c0224f2c32a30a1d3a0f90cc3862821.jpg;Beat Mom for the first time 
+279;7;Unlocked a new challenge.;Pokey Mans;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/7ea57ce44553255d7755c2d6539f618000469a07.jpg;Unlock It Lives! 
+280;7;Unlocked a new challenge.;Ultra Hard;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/e14c6f343a68be381fde4feb6a32eb5d2f6ef083.jpg;Beat ??? or The Lamb for the first time 
+281;7;Unlocked a new challenge.;PONG;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f4aa8fcce92c7458ff42db5f7800ec60ebd7ea2d.jpg;Unlock The Polaroid 
+282;19;Unlocked a new item.;D Infinity;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/6d15635be833496d9f631be685d8ba1e98ab330a.jpg;Beat Delirium as Isaac 
+283;19;Unlocked a new item.;Eucharist;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/9fabbf6365b3e38d2c86f75eca0f9488865146f1.jpg;Beat Delirium as Magdalene 
+284;19;Unlocked a new item.;Silver Dollar;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/0063c36cdf4f2d4ea07ca3235673707f48af1725.jpg;Beat Delirium as Cain 
+285;19;Unlocked a new item.;Shade;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/eb118ac38a9d23ab0637472b92c3242a24394757.jpg;Beat Delirium as Judas 
+286;19;Unlocked a new item.;King Baby;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/6fbd76ba8c073b83e44c1a8f39139e86ed2f4829.jpg;Beat Delirium as ??? 
+287;19;Unlocked a new item.;Bloody Crown;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b80f7f734f2f6fad1d43a8d2d97e26d50a6f9fe8.jpg;Beat Delirium as Samson 
+288;19;Unlocked a new item.;Dull Razor;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d5b7da4584398fdaf1086ed42cc9dbac9f2251e3.jpg;Beat Delirium as Eve 
+289;19;Unlocked a new item.;Eden's Soul;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/9b7edfa7a0c5af210df90fde3e9566934c758ed2.jpg;Beat Delirium as Eden 
+290;19;Unlocked a new item.;Dark Prince's Crown;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/12c3d67997282e87cce250a4e597be6ebd9e9f70.jpg;Beat Delirium as Azazel 
+291;19;Unlocked a new item.;Compound Fracture;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b36feaafd10ff37d231d8b5f59716a942347730b.jpg;Beat Delirium as Lazarus 
+292;19;Unlocked a new item.;Euthanasia;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/930c5a478fde36b74c50fe9631083122bd7f4778.jpg;Beat Delirium as Lilith 
+293;19;Unlocked a new item.;Holy Card;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/4e20ecbe0881a4524f739ff2b2ff13186685578f.jpg;Beat Delirium as The Lost 
+294;19;Unlocked a new item.;Crooked Penny;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b155ce7acd3a8ee33b1add7d31432adf3df1619d.jpg;Beat Delirium as Keeper 
+295;19;Unlocked a new item.;Void;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d7f8e95cf303ea1ff8cc979977e8f922806cf94c.jpg;Beat Delirium as Apollyon 
+296;18;Unlocked a new item.;D1;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/223e5059a9f575f0fdf5e8ef4e6216200f2b440e.jpg;Beat Greedier Mode with Isaac 
+297;18;Unlocked a new item.;Glyph Of Balance;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d30de05ccc8299ec2c1eb68af6a81030c9e02443.jpg;Beat Greedier Mode with Magdalene 
+298;18;Unlocked a new item.;Sack Of Sacks;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d76337520e26a6b19d928ceea731969a3dffd1d1.jpg;Beat Greedier Mode with Cain 
+299;18;Unlocked a new item.;Eye Of Belial;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/450877c1799cc0af987cda4b47309f903403e4c6.jpg;Beat Greedier Mode with Judas 
+300;18;Unlocked a new item.;Meconium;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/040a208cd01f8e8ba3749d7119ddc7c44dd82654.jpg;Beat Greedier Mode with ??? 
+301;18;Unlocked a new item.;Stem Cell;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/c12ca0df8efaa81394ee0e58b4a46c7a89c8c219.jpg;Beat Greedier Mode with Samson 
+302;18;Unlocked a new item.;Crow Heart;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/71245e86d713cde3d7cb03d263e69b54c75a5c07.jpg;Beat Greedier Mode with Eve 
+303;18;Unlocked a new item.;Metronome;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/643a9cbcb8d760137a02307ea64abc52c9a57e2e.jpg;Beat Greedier Mode with Eden 
+304;18;Unlocked a new item.;Bat Wing;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/6efde17491ee86afd348292c7f051fc112ee5b0e.jpg;Beat Greedier Mode with Azazel 
+305;18;Unlocked a new item.;Plan C;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/e5156678aaeb313dff140a815c510feecb5154ca.jpg;Beat Greedier Mode with Lazarus 
+306;18;Unlocked a new item.;Duality;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/e25209ffb816e293b7cfc9036799b5e9562f8b4b.jpg;Beat Greedier Mode with Lilith 
+307;18;Unlocked a new item.;Dad's Lost Coin;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/b6be7c582a75f691700d7bc2bcc2b3b1a1ade763.jpg;Beat Greedier Mode with The Lost 
+308;18;Unlocked a new item.;Eye Of Greed;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/8b7cd19f8572a6c67034ab2e7ba8237b3d994562.jpg;Beat Greedier Mode with Keeper 
+309;18;Unlocked a new item.;Black Rune;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/5deba59beb955c61d4cecefca7577b92de268774.jpg;Beat Greedier Mode with Apollyon 
+310;2;Unlocked a new item.;Locust Of Wrath;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/9a4d126a445cbb514fffafad22126a787bbc9d5b.jpg;Beat Isaac as Apollyon 
+311;3;Unlocked a new item.;Locust Of Pestilence;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/77a8249867b74702e065b9bb3a6846f70d8ab7d4.jpg;Beat Satan as Apollyon 
+312;4;Unlocked a new item.;Locust Of Famine;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/8e440d30bc6656c1df24127c6789888e4486e2ef.jpg;Beat ??? as Apollyon 
+313;5;Unlocked a new item.;Locust Of Death;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/ab6a4aeb801aab6eb23bd5984403e7b20eb22858.jpg;Beat The Lamb as Apollyon 
+314;6;Unlocked a new item.;Locust Of Conquest;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/67656154d6c3a37dc97e6b86c2a77a8fb46e67df.jpg;Complete Boss Rush as Apollyon 
+315;14;Unlocked a new item.;Hushy;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/4a68ec55778b01e7080f0a7412b4d7d7a34c6807.jpg;Beat Hush as Apollyon 
+316;15;Unlocked a new item.;Brown Nugget;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/34ae9b55b9f410a548f838bbcb48f1b4ba3b8302.jpg;Beat Ultra Greed as Apollyon 
+317;16;Unlocked a new co-player baby.;Mort Baby;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/01c1db37742f35182d3a0451c816799a7a85c7f3.jpg;Beat Mega Satan as Apollyon 
+318;1;Unlocked a new item.;Smelter;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/33df7b8942609d40b8786159cf08fe7e5d3c390a.jpg;Beat Mom's Heart or It Lives! as Apollyon 
+319;17;Unlocked a new co-player baby.;Apollyon Baby;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/bd61f807aae2cc66b23d98640cce159782b4188b.jpg;Earn all Hard Mode Completion Marks with Apollyon 
+320;14;Unlocked a new area.;New Area;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/f5656a31f8563b25f595cee513c6831c512a9d26.jpg;Beat Hush for the first time 
+321;8;Unlocked a new item.;Once More With Feeling!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/941719a2fd06a69093cef6cb77039c8c91427055.jpg;Complete a Victory Lap, defeating The Lamb 
+322;8;Unlocked a new item.;Hat trick!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/840ebcf84938a6fc7b04fdab7a3b1201234681cc.jpg;Get a 3-win streak 
+323;8;Unlocked super special rocks.;5 Nights at Mom's;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/5ac8c39d74f86319870c872cc2aadff51d81701b.jpg;Get a 5-win streak using a different character for each win. 
+324;8;Unlocked a new item.;Sin Collector;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/86504ef3d49b3deca8196aec68aaeac241f49aa2.jpg;Collect every entry in the Bestiary (Bugged v190 - Mobs that don't exist in the bestiary are being counted. This allows Sin Collector to be unlocked without a complete bestiary) 
+325;8;Unlocked a new item.;Dedication;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/ba8e1fae2c6109f8977d1e9250c77ed7fe640c4b.jpg;Participate in 31 dailies in a row 
+326;5;Unlocked a new item.;ZIP!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/cf1c036aa3ece401fddb5089e8e912ef0ca99b68.jpg;Beat The Lamb in under 20 minutes. 
+327;5;Unlocked a new item.;It's the Key;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/cab3f838c09972f8275de0ed0b562d6f08832e90.jpg;Beat The Lamb without taking hearts, coins and bombs. 
+328;8;Unlocked a new item.;Mr. Resetter!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/6fd9528a261c33bed72c7f2799026c8cec1c3e16.jpg;Reset 7 times in a row. 
+329;8;Unlocked a new item.;Living on the edge;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/bc11ab794ecc78a5729cf3afaa975968fcdcf4c4.jpg;Beat a floor after Basement I, start-to-finish, with only half a heart of health (can use The Lost) 
+330;8;Unlocked a new item.;U Broke It!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/875ce6d4ab992022c74503752ee6696c808ea5ac.jpg;Obtain 50 items on a run (e.g., via two Steam Sales and Restock. Duplicate passives/familiars count towards the total, e.g., multiple Breakfasts) 
+331;7;Unlocked a new starting item.;Laz Bleeds More!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/e9d3c0460728576488d0c1bebca94991ee969ab1.jpg;Beat challenge #31 
+332;7;Unlocked a new starting item.;Maggy Now Holds a Pill!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/d188bcf9972a5a76e1d658072b4d59bca485c580.jpg;Beat challenge #32 
+333;7;Unlocked a new item.;Charged Key;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/76d03074494a3d9b14cf1917edd8d79e45f1586e.jpg;Beat challenge #33 
+334;7;Unlocked a new starting item.;Samson Feels Healthy!;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/8743956367b508c36b6f6182648f74b79eb87c2c.jpg;Beat challenge #34 
+335;7;Unlocked a new item.;Greed's Gullet;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/cb953de0616484415501e4f1b151c11b95f29766.jpg;Beat challenge #35 
+336;8;Unlocked a new item.;The Marathon;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/24bfc4f074679e42ff56dd71127b0830033e9495.jpg;Get a 5-win streak in Daily Challenges (does not need to be over 5 days in a row). 
+337;8;Unlocked the power of RERUN.;RERUN;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/0ef4451d59a8a0766fbfedf9f556dca7ae3fbb0f.jpg;Complete 3 Victory Laps and start a 4th. 
+338;8;Unlocked a new item.;Delirious;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/c46c5adfbbddce1f341eb18ac450f542ba774884.jpg;Beat Delirium for the first time on any character. 
+339;8;Just Stop!;1000000%;http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/250900/6673cb1141bae8012ef6b13090e796e3a8ed5dc2.jpg;
