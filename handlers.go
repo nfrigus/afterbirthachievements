@@ -4,6 +4,7 @@ import (
 	"html/template"
 	"log"
 	"net/http"
+	"strconv"
 
 	"github.com/gorilla/mux"
 )
@@ -18,9 +19,17 @@ func landingHandler(w http.ResponseWriter, r *http.Request) {
 func achievementHandler(w http.ResponseWriter, r *http.Request) {
 	vars := mux.Vars(r)
 	username := vars["username"]
-	userID, err := getUserID(username)
-	log.Println(userID)
+
+	// Did the user supply their SteamID?
+	userID, err := strconv.Atoi(username)
+	if err != nil || len(username) != 17 {
+		// Nope, that must have been their profile name. Let's try
+		// that instead.
+		userID, err = getUserID(username)
+	}
+
 	if err != nil {
+		log.Println(err)
 		t, _ := template.ParseFiles("tmpl/usernotfound.html")
 		t.Execute(w, nil)
 		return
@@ -28,7 +37,8 @@ func achievementHandler(w http.ResponseWriter, r *http.Request) {
 	unearned, err := unearnedAchievements(userID)
 	if err != nil {
 		log.Println(err)
-		http.NotFound(w, r)
+		t, _ := template.ParseFiles("tmpl/usernotfound.html")
+		t.Execute(w, nil)
 		return
 	}
 	categorized := categorizeAchievements(unearned)

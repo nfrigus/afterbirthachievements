@@ -17,7 +17,6 @@ func initialize() {
 
 func main() {
 	initialize()
-
 	staticHandler := http.FileServer(http.Dir("tmpl"))
 	http.Handle("/css/", staticHandler)
 
