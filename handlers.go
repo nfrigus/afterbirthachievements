@@ -19,9 +19,10 @@ func achievementHandler(w http.ResponseWriter, r *http.Request) {
 	vars := mux.Vars(r)
 	username := vars["username"]
 	userID, err := getUserID(username)
+	log.Println(userID)
 	if err != nil {
-		log.Println(err)
-		http.NotFound(w, r)
+		t, _ := template.ParseFiles("tmpl/usernotfound.html")
+		t.Execute(w, nil)
 		return
 	}
 	unearned, err := unearnedAchievements(userID)
