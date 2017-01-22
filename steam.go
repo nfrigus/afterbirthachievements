@@ -12,6 +12,8 @@ import (
 const achievementAPIURL = "https://api.steampowered.com/ISteamUserStats/GetUserStatsForGame/v0002/?appid=250900&key=%s&steamid=%d"
 const userIDAPIURL = "http://api.steampowered.com/ISteamUser/ResolveVanityURL/v0001/?key=%s&vanityurl=%s"
 
+// SteamAchievementResponse represents the JSON response provided by the Steam Web API
+// when one prompts for the achievements belonging to a given user.
 type SteamAchievementResponse struct {
 	Playerstats struct {
 		SteamID      string `json:"steamID"`
@@ -27,6 +29,8 @@ type SteamAchievementResponse struct {
 	} `json:"playerstats"`
 }
 
+// readSteamStats calls the Steam Web API to obtain information about the achievements belonging
+// to a given user.
 func readSteamStats(steamID int) (steamAchievementResponse SteamAchievementResponse, err error) {
 	client := &http.Client{Timeout: 10 * time.Second}
 	response, err := client.Get(fmt.Sprintf(achievementAPIURL, config.SteamAPIKey, steamID))
@@ -38,6 +42,8 @@ func readSteamStats(steamID int) (steamAchievementResponse SteamAchievementRespo
 	return
 }
 
+// unearnedAchievements collects the list of achievements yet to be earned by the user with
+// a given Steam ID.
 func unearnedAchievements(steamID int) (unearnedAchievements []Achievement, err error) {
 	steamAchievementResponse, err := readSteamStats(steamID)
 	if err != nil {
@@ -65,6 +71,8 @@ func unearnedAchievements(steamID int) (unearnedAchievements []Achievement, err 
 	return
 }
 
+// SteamPlayerIDResponse represents the JSON response provided by the Steam Web API
+// when one prompts for the integral Steam ID belonging to a user with a given username.
 type SteamPlayerIDResponse struct {
 	Response struct {
 		Steamid string `json:"steamid"`
@@ -72,6 +80,7 @@ type SteamPlayerIDResponse struct {
 	} `json:"response"`
 }
 
+// getUserID calls the Steam Web API to determine the Steam ID of a user with a given username.
 func getUserID(username string) (userID int, err error) {
 	client := &http.Client{Timeout: 10 * time.Second}
 	response, err := client.Get(fmt.Sprintf(userIDAPIURL, config.SteamAPIKey, username))
