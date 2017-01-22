@@ -1,0 +1,14 @@
+<html>
+    <head>
+        <link href="style.css" rel="stylesheet">
+        <title>Afterbirth+ achievement helper</title>
+    </head>
+    <body>
+        {{ range $key, $value := . }}
+            <h1>{{ $key }}</h1>
+            {{ range $value }}
+                <img src="{{ .Icon }}" title="{{ .Name }}: {{ .UnlockedBy }}" />
+            {{ end }}
+        {{ end }}
+    </body>
+</html>

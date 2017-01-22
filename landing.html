@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <link href="style.css" rel="stylesheet">
+        <title>Afterbirth+ achievement helper</title>
+        <script type="text/javascript">
+            function navigateToInput() {
+                document.location = "/" + document.getElementById('username').value
+            }
+        </script>
+    </head>
+    <body>
+        <h1>Enter your Steam username</h1>
+        <input id="username" onkeydown="if (event.keyCode == 13) navigateToInput()" />
+    </body>
+</html>

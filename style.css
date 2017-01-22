@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    font-size: 12pt;
+}
+
+input {
+    background-color: black;
+    border-color: white;
+    color: white;
+    height: 24px;
+}
