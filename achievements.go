@@ -24,7 +24,7 @@ var allAchievements map[int]Achievement
 // in the global variable `allCategories`.
 func readAllCategories() {
 	allCategories = make(map[int]string)
-	file, _ := os.Open("categories.csv")
+	file, _ := os.Open("data/categories.csv")
 	defer file.Close()
 	scanner := bufio.NewScanner(file)
 	firstLine := true
@@ -44,7 +44,7 @@ func readAllCategories() {
 // in the global variable `allAchievements`.
 func readAllAchievements() {
 	allAchievements = make(map[int]Achievement)
-	file, _ := os.Open("achievements.csv")
+	file, _ := os.Open("data/achievements.csv")
 	defer file.Close()
 	scanner := bufio.NewScanner(file)
 	firstLine := true

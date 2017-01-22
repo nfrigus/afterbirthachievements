@@ -10,7 +10,7 @@ import (
 
 // landingHandler handles requests to "/"
 func landingHandler(w http.ResponseWriter, r *http.Request) {
-	t, _ := template.ParseFiles("landing.html")
+	t, _ := template.ParseFiles("tmpl/landing.html")
 	t.Execute(w, nil)
 }
 
@@ -31,6 +31,6 @@ func achievementHandler(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	categorized := categorizeAchievements(unearned)
-	t, _ := template.ParseFiles("achievements.html")
+	t, _ := template.ParseFiles("tmpl/achievements.html")
 	t.Execute(w, categorized)
 }

@@ -17,9 +17,11 @@ func initialize() {
 
 func main() {
 	initialize()
+
+	staticHandler := http.FileServer(http.Dir("tmpl"))
+	http.Handle("/css/", staticHandler)
+
 	router := mux.NewRouter()
-	staticHandler := http.FileServer(http.Dir(""))
-	http.Handle("/style.css", staticHandler)
 	router.HandleFunc("/", landingHandler)
 	router.HandleFunc("/{username:[a-z0-9_-]+}", achievementHandler)
 	http.Handle("/", router)
