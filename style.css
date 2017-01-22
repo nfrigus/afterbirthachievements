@@ -15,3 +15,13 @@ input {
     color: white;
     height: 24px;
 }
+
+a {
+    color: #cccccc;
+    text-decoration: none;
+}
+
+a:hover {
+    color: white;
+    text-decoration: none;
+}
