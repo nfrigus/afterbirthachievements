@@ -1,4 +1,4 @@
-The Binding of Isaac: Afterbirth+ achievement helper
+The Binding of Isaac: Afterbirth+ achievement helper [![Build Status](https://travis-ci.org/fuglede/afterbirthachievements.svg?branch=master)](https://travis-ci.org/fuglede/afterbirthachievements)
 ====================================================
 
 Simple web application for allowing a given Steam user to follow their progress towards completing achievements in [Afterbirth+](http://store.steampowered.com/app/570660/). The application is currently live at https://tboi.mosstier.com
