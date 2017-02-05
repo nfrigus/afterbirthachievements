@@ -34,6 +34,13 @@ func initializeTemplates() (err error) {
 // renderContent parses the content (given as a template) and puts it into our base template.
 // The control of the input data is handled by the handlers in handlers.go
 func renderContent(t string, r *http.Request, w http.ResponseWriter, data interface{}) {
+	// Set up various security headers
+	w.Header().Set("Content-Security-Policy", "default-src 'self'; img-src 'self' https://steamcdn-a.akamaihd.net")
+	w.Header().Set("X-Frame-Options", "SAMEORIGIN")
+	w.Header().Set("X-Xss-Protection", "1; mode=block")
+	w.Header().Set("X-Content-Type-Options", "nosniff")
+
+	// Combine templates and write response
 	err := templates[t].ExecuteTemplate(w, "base", data)
 	if err != nil {
 		log.Println(err)
