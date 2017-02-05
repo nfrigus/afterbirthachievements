@@ -1,7 +1,6 @@
 package main
 
 import (
-	"html/template"
 	"log"
 	"net/http"
 	"strconv"
@@ -11,8 +10,7 @@ import (
 
 // landingHandler handles requests to "/"
 func landingHandler(w http.ResponseWriter, r *http.Request) {
-	t, _ := template.ParseFiles("tmpl/landing.html")
-	t.Execute(w, nil)
+	renderContent("tmpl/landing.html", r, w, nil)
 }
 
 // achievementHandler handles requests of the form "/{username}".
@@ -30,18 +28,15 @@ func achievementHandler(w http.ResponseWriter, r *http.Request) {
 
 	if err != nil {
 		log.Println(err)
-		t, _ := template.ParseFiles("tmpl/usernotfound.html")
-		t.Execute(w, nil)
+		renderContent("tmpl/usernotfound.html", r, w, nil)
 		return
 	}
 	unearned, err := unearnedAchievements(userID)
 	if err != nil {
 		log.Println(err)
-		t, _ := template.ParseFiles("tmpl/usernotfound.html")
-		t.Execute(w, nil)
+		renderContent("tmpl/usernotfound.html", r, w, nil)
 		return
 	}
 	categorized := categorizeAchievements(unearned)
-	t, _ := template.ParseFiles("tmpl/achievements.html")
-	t.Execute(w, categorized)
+	renderContent("tmpl/achievements.html", r, w, categorized)
 }
