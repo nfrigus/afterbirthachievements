@@ -12,7 +12,7 @@ $(document).ready(function () {
     // Capture mouse click events
     $(".has-tooltip").click(function () {
         var $title = $(this).find(".tooltip");
-        if (!$title.attr("data-close"))
+        if ($title.attr("data-close") === "false")
             $title.show();
         $title.attr("data-close", false);
     });
