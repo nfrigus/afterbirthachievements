@@ -25,3 +25,22 @@ a:hover {
     color: white;
     text-decoration: none;
 }
+
+.has-tooltip {
+    border-bottom: 1px dotted #000;
+    position: relative;
+    cursor: pointer;
+}
+
+.has-tooltip .tooltip {
+    position: absolute;
+    top: 15px;
+    background: #fff;
+    color: black;
+    border: 1px solid #ccc;
+    padding: 8px;
+    left: 0;
+    width: 240px;
+    z-index: 100;
+    display: none;
+}

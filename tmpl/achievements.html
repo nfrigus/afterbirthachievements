@@ -2,12 +2,17 @@
     <head>
         <link href="/css/style.css" rel="stylesheet">
         <title>Afterbirth+ achievement helper</title>
+        <script src="/js/jquery-3.1.1.slim.min.js"></script>
+        <script src="/js/main.js"></script>
     </head>
     <body>
         {{ range $key, $value := . }}
             <h1>{{ $key }}</h1>
             {{ range $value }}
-                <img src="{{ .Icon }}" title="{{ .Name }}: {{ .UnlockedBy }}" />
+                <span class="has-tooltip">
+                    <img src="{{ .Icon }}" />
+                    <div class="tooltip"><b>{{ .Name }}</b><br />{{ .UnlockedBy }}</div>
+                </span>
             {{ end }}
         {{ end }}
     </body>
