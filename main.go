@@ -52,6 +52,7 @@ func main() {
 	initialize()
 	staticHandler := http.FileServer(http.Dir("tmpl"))
 	http.Handle("/css/", staticHandler)
+	http.Handle("/img/", staticHandler)
 	http.Handle("/js/", staticHandler)
 
 	router := mux.NewRouter()
