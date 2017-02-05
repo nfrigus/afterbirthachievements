@@ -2,15 +2,12 @@
     <head>
         <link href="/css/style.css" rel="stylesheet">
         <title>Afterbirth+ achievement helper</title>
-        <script type="text/javascript">
-            function navigateToInput() {
-                document.location = "/" + document.getElementById('username').value
-            }
-        </script>
+        <script src="/js/jquery-3.1.1.slim.min.js"></script>
+        <script src="/js/main.js"></script>
     </head>
     <body>
         <h1>Enter your Steam username or Steam64 ID and press return</h1>
-        <input id="username" onkeydown="if (event.keyCode == 13) navigateToInput()" />
+        <input id="username-input" />
         <p>Want to help make this page prettier? Check out the <a href="https://github.com/fuglede/afterbirthachievements">GitHub repository</a>.</p>
     </body>
 </html>
