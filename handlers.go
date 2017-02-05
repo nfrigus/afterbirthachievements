@@ -15,7 +15,7 @@ func landingHandler(w http.ResponseWriter, r *http.Request) {
 	t.Execute(w, nil)
 }
 
-// landingHandler handles requests of the form "/{username}".
+// achievementHandler handles requests of the form "/{username}".
 func achievementHandler(w http.ResponseWriter, r *http.Request) {
 	vars := mux.Vars(r)
 	username := vars["username"]
