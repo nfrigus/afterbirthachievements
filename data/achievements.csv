@@ -67,7 +67,7 @@ id;category;description;display;icon;unlockedBy
 66;8;Unlocked a new boss!;A Forgotten Horseman;3ee15d8b922f533f2f6f3e67d16a08e39c585480.jpg;Take 10 items from Angel Rooms
 67;10;Unlocked a new character.;Samson;a9deb948370ec83d32885552aa0ff00946736690.jpg;Beat 2 floors in a row without taking damage
 68;2;New boss in the womb!;Something Icky;a28057b4d0efd76b5f530e3be1fb75bc09a54810.jpg;Beat Isaac (Boss) 10 times
-69;8;;!Platinum God!;cbe79358952288e9a6989254eb1e09bdba74f343.jpg;Collect all items in the game, unlock all of the secrets and endings minus The Lost and his 7 unlockable items
+69;8;;!Platinum God!;cbe79358952288e9a6989254eb1e09bdba74f343.jpg;Collect all items, and unlock all of the secrets and endings available in vanilla Rebirth, minus The Lost and his 7 unlockable items
 70;6;;Isaac's Head;782c3779ea0c9c141a2677df23f354a039fa4f33.jpg;Beat Boss Rush with Isaac
 71;5;;Maggy's Faith;f93738874600854fd0b314fe05e12d7eafef5a69.jpg;Beat The Lamb with Maggy
 72;3;;Judas' Tongue;885c47b3cfbee1f1338e05837e60c9c02c2cf065.jpg;Beat Satan with Judas
@@ -82,7 +82,7 @@ id;category;description;display;icon;unlockedBy
 81;10;Unlocked a new character.;Eden;32762356ae78283cd6f0e64dbc075d0ecfdb6198.jpg;Beat Chapter 4 for the 1st time
 82;8;;The Lost;5b4a21ce3c817f483f3e3eef99b1701a84a9b38e.jpg;Die in a Sacrifice Room while holding Missing Poster
 83;10;;Dead Boy;86c15e3de3028a5ef72dadd274f2cd942847168d.jpg;Beat Chapter 6 without taking damage
-84;8;;The Real Platinum God;050ae666a70cab8928f96d16f32d6607d66e4692.jpg;Collect every Item and unlock every ending.
+84;8;;The Real Platinum God;050ae666a70cab8928f96d16f32d6607d66e4692.jpg;Collect every item and unlock every ending available in vanilla Rebirth.
 85;8;;Lucky Rock;b3cb8d0f97ba33ddf1502768485fc7651b7ecfa0.jpg;Destroy 100 rocks
 86;11;;The Cellar;057bb55a43a48881c6b7e13f0f05236d6e64ff4b.jpg;Beat all possible bosses in the basement (includes killing each part of Gemini first)
 87;11;;The Catacombs;2bfa98175a0ea9a1258a67f19b06f4e5476625c3.jpg;Beat all possible bosses in the caves
@@ -233,7 +233,7 @@ id;category;description;display;icon;unlockedBy
 232;7;Unlocked a new item.;Kidney Stone;95098933f47a19a9528e3ee9224ce16163aa775d.jpg;Beat challenge #29 (Onan's Streak)
 233;7;Unlocked a new item.;Blank Rune;eef7ac62f633107e13573c7972c1f106452fe1cf.jpg;Beat challenge #30 (The Guardian)
 234;8;Unlocked a hidden chapter.;Blue Womb;59e4e9455915897134a0c67436fd3e8fb3ba5f49.jpg;
-235;8;Nerd x 1000000;1001%;b0ccf94d1447bad38ef1ba2c476cbf9702c140b0.jpg;Unlock all of the secrets and endings, and collect every item in the game.
+235;8;Nerd x 1000000;1001%;b0ccf94d1447bad38ef1ba2c476cbf9702c140b0.jpg;Unlock all of the secrets and endings, and collect every item available in Afterbirth.
 236;2;Unlocked a new starting item.;Keeper holds Wooden Nickel;e243350a8b69678ebf3d7a9c5307c05123ac5bdd.jpg;Beat Isaac with Keeper
 237;3;Unlocked a new starting item.;Keeper holds Store Key;d21aa0238a0b230a065f9f16159c9e57bf3058a3.jpg;Beat Satan with Keeper
 238;4;Unlocked a new item.;Deep Pockets;61263d00174ed48329041c3cfad09363c28ee484.jpg;Beat ??? with Keeper
@@ -337,4 +337,4 @@ id;category;description;display;icon;unlockedBy
 336;8;Unlocked a new item.;The Marathon;24bfc4f074679e42ff56dd71127b0830033e9495.jpg;Get a 5-win streak in Daily Challenges (does not need to be over 5 days in a row). 
 337;8;Unlocked the power of RERUN.;RERUN;0ef4451d59a8a0766fbfedf9f556dca7ae3fbb0f.jpg;Complete 3 Victory Laps and start a 4th. 
 338;8;Unlocked a new item.;Delirious;c46c5adfbbddce1f341eb18ac450f542ba774884.jpg;Beat Delirium for the first time on any character. 
-339;8;Just Stop!;1000000%;6673cb1141bae8012ef6b13090e796e3a8ed5dc2.jpg;
+339;8;Just Stop!;1000000%;6673cb1141bae8012ef6b13090e796e3a8ed5dc2.jpg;Unlock all of the secrets and endings, and collect every item available in Afterbirth+.
