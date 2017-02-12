@@ -3,7 +3,7 @@
         <h1>{{ $key }}</h1>
         {{ range $value }}
             <span class="has-tooltip">
-                <img src="{{ .Icon }}" />
+                <img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/250900/{{ .Icon }}" />
                 <div class="tooltip"><b>{{ .Name }}</b><br />{{ .UnlockedBy }}</div>
             </span>
         {{ end }}
