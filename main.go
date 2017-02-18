@@ -36,6 +36,7 @@ func initializeTemplates() (err error) {
 func renderContent(t string, r *http.Request, w http.ResponseWriter, data interface{}) {
 	// Set up various security headers
 	w.Header().Set("Content-Security-Policy", "default-src 'self'; img-src 'self' https://steamcdn-a.akamaihd.net")
+	w.Header().Set("Referrer-Policy", "no-referrer")
 	w.Header().Set("X-Frame-Options", "SAMEORIGIN")
 	w.Header().Set("X-Xss-Protection", "1; mode=block")
 	w.Header().Set("X-Content-Type-Options", "nosniff")
