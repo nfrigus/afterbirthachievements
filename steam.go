@@ -57,7 +57,7 @@ func unearnedAchievements(steamID int) (unearnedAchievements []Achievement, err 
 		earnedAchievements = append(earnedAchievements, achievementID)
 	}
 	sort.Ints(earnedAchievements)
-	earnedAchievements = append(earnedAchievements, 340)
+	earnedAchievements = append(earnedAchievements, 404)
 
 	// Find the complement of the slice
 	previousAchievement := 0
