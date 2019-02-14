@@ -20,7 +20,7 @@ type Achievement struct {
 var allCategories map[int]string
 var allAchievements map[int]Achievement
 
-// readAllAchievements reads from disk data about all achievement categories and stores the information
+// readAllCategories reads from disk data about all achievement categories and stores the information
 // in the global variable `allCategories`.
 func readAllCategories() {
 	allCategories = make(map[int]string)
